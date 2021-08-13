@@ -13,7 +13,7 @@ html,body
     font-family: 'Red Hat Display', sans-serif;
     color: hsl(223, 47%, 23%);
     height: 100%;
-    width: 100%;
+    width: 100%;   
 }
 
 body
@@ -98,6 +98,7 @@ h2,h5
 {
     font-size: small;
     font-weight: 900;  
+    color:hsl(245, 75%, 52%);;
 }
 
 .ord_annual_plan>a:hover{
